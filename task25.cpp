@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#include<iostream>
+using namespace std;
+main()
+{
+    int i = 0;
+    while(i < 10){
+        cout << i << " ";
+        i += 3;
+    }
+=======
+>>>>>>> 17c9e8dfdd9ddacd33ebacab28c156f58b7e3ba5
 #include<iostream>
 using namespace std;
 int main(){
@@ -41,4 +55,8 @@ cout<<"area of triangle is :"<<area;
 
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> 994ddb26077fd239a022c943e4ae29b8438a20d0
+>>>>>>> 17c9e8dfdd9ddacd33ebacab28c156f58b7e3ba5
 }

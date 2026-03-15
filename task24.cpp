@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#include<iostream>
+using namespace std;
+main()
+{
+    int product = 1;
+    for(int i = 1; i <=5; i++){
+        product *= i;
+    }
+    cout << product;
+=======
+>>>>>>> 17c9e8dfdd9ddacd33ebacab28c156f58b7e3ba5
 #include<iostream>
 using namespace std;
 int main()
@@ -33,4 +47,8 @@ cout<<"extremely fast";
 
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> 994ddb26077fd239a022c943e4ae29b8438a20d0
+>>>>>>> 17c9e8dfdd9ddacd33ebacab28c156f58b7e3ba5
 }

@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#include<iostream>
+using namespace std;
+main()
+{
+    int sum = 0;
+    for(int i = 10; i > 0; i-= 2){
+        sum += i;
+    }
+    cout << sum;
+=======
+>>>>>>> 17c9e8dfdd9ddacd33ebacab28c156f58b7e3ba5
 	#include <iostream>
 using namespace std;
 
@@ -45,4 +59,8 @@ if(num==100)
 cout<<"hundred";
 else
 cout<<t2<<" "<<t1;
+<<<<<<< HEAD
+=======
+>>>>>>> 994ddb26077fd239a022c943e4ae29b8438a20d0
+>>>>>>> 17c9e8dfdd9ddacd33ebacab28c156f58b7e3ba5
 }
