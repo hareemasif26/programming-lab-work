@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 int main ()
@@ -22,3 +23,17 @@ cout<<"29 x "<< i <<"="<<29 * i <<endl;
 
 
 }
+=======
+#include<iostream>
+using namespace std;
+int main(){
+int cost;
+cout<<"enter cost of dress:";
+cin>>cost;
+if(cost>1500){
+cout<<"buy the dress";
+}else{
+cout<<"do not buy the dress";   
+} 
+}
+>>>>>>> 994ddb26077fd239a022c943e4ae29b8438a20d0

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 main()
@@ -20,4 +21,26 @@ for(int x = 1; x < n - 1; x = x + 1)
 
 
 
+=======
+#include<iostream>
+using namespace std;
+main()
+{
+string name;
+cout<<"please enter your name";
+cin>>name;
+if(name =="ali"){
+cout<<"welcome"<<name<<endl;
+
+
+}
+
+
+
+
+
+
+
+
+>>>>>>> 994ddb26077fd239a022c943e4ae29b8438a20d0
 }
