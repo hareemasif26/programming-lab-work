@@ -1,0 +1,16 @@
+3
+Silver Package
+14
+150000
+Economy
+Flight + Hotel (3-Star) + Transport
+Gold Package
+21
+250000
+Standard
+Flight + Hotel (4-Star) + Transport + Ziyarat
+Diamond Package
+30
+400000
+Premium
+Flight + Hotel (5-Star) + Transport + Ziyarat + Meals
